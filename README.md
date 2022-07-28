@@ -24,7 +24,7 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 [![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com)
 
-- 🌱 I’m currently in love with <b>DeepLearning</b>
+- 🌱 I’m currently in love with <b>DeepLearning</b>.
 - 🔭 Simultaneously exploring <b>Web3</b>
 - 💬 Ask me about **Web Development** , **Open Source Contributions**.
 - 👯 I’m looking to collaborate on **Open Source Projects**
