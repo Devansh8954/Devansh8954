@@ -112,7 +112,7 @@ technologies to meet future requirements.</br>
 
 <p align = "center">
 
-[<img src ="https://devansh8954.github.io/devanshportfolio.github.io/">](https://github.com/Devansh8954)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://devansh8954.github.io/devanshportfolio.github.io/)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Devansh78563365) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devansh-tyagi-541b2917b/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/vanshtyagi349/)
