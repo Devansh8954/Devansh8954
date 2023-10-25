@@ -6,7 +6,7 @@
 
 ### Hi there, I'm [Devansh Tyagi](https://www.linkedin.com/in/devansh-tyagi-541b2917b/)<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 
-I am an intermediate front-end Web developer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
+I am an intermediate Full stack Web developer. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Devansh8954&label=Profile%20views&color=32CD32&style=flat" alt="Devansh8954" /> </p>
