@@ -118,7 +118,7 @@ technologies to meet future requirements.</br>
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/vanshtyagi349/)
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh8954" alt="Devansh Tyagi github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Devansh8954&show_icons=true&theme=radical" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh8954&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Devansh8954&show_icons=true&theme=radical" alt="Devansh Tyagi github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats">
 
 
 
