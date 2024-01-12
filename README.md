@@ -52,7 +52,7 @@ technologies to meet future requirements.</br>
 - available to become reviewer or PC member for Data mining journals or conferences.
 
 <details>
-   <summary>📃 Resume</summary>
+   <summary>📃 Education</summary>
 
  ## Education
  - 📍 **Uttarakhand Technical University**-----------------------**< 2021-2024 >**\
@@ -66,41 +66,7 @@ technologies to meet future requirements.</br>
  - 📍 **Seventh Day Adventist Inter College Roorkee**------------------**< 2019-2020 >**\
    📖**High School**
      🏫**ICSE Board**
- 
    
-   
-   
- ## Experience
- -  👨‍💻 **Web Development**---------------------------< course >\
- 📆 Mar,2022 - moment\
-📍 **Coursera** - JOHNS HOPKINS UNIVERSITY
-   
- -  👨‍💻 **Ethical Hacking for Beginners**----------------------< course >\
-   📆 Mar,2022 - moment\
-   📍 **Simplilearn** 
-   
- -  👨‍💻 **Grammer and Punctuation**------------------------------------------< course >\
-   📆 Oct,2020 - moment\
-   📍 **Coursera** - Division of Continuing Education
-   
-   -  👨‍💻 **Workshop**------------------------------------------< Internship >\
-   - 👀 **CERTIFICATES**
-        - ***Algorithmic Trading by 5paisa***
-        - ***Basics of CryptoCurrency Blockchain by CoinSwitch Kuber***
-        - ***Cryptoverse A Deep Divie by DCX Learn***
-        - ***Cyber Security Penetration Testing Machine Learning in 2022 by Indian Cyber Security Solutions***
-        - ***Data Structures and Algorithms DSA by Coding Ninjas***
-        - ***Design with Empathy by LollypopDesign***
-        - ***Designing Testing and Deploying Deep Learning Applications with MATLAB Simulink by MathWorks***
-        - ***Fundamentals of Deep Learning by Nvidia***
-        - ***Geographic Information System GIS by ESRI India***
-        - ***Malware Analysis by Cisco Talos***
-        - ***Robotic Process Automation by UiPath Academic Alliance****
-        - ***Solving RealTime Industry Problems with Al Computer Vision by Third Eye Data***
-        - ***User Research by Treemouse***
-
-   📆  May,2022 - moment\
-   📍**Cognizance** - IIT Roorkee
    </details>
    
 ### `💻 Languages and Tools`<img  alt="Coding" width="35" src="https://user-images.githubusercontent.com/71630336/167283646-f631f134-0457-4760-a2e8-5801d4c6a915.gif">:   
