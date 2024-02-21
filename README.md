@@ -55,7 +55,7 @@ technologies to meet future requirements.</br>
    <summary>📃 Education</summary>
 
  ## Education
- - 📍 **Uttarakhand Technical University**-----------------------**< 2021-2024 >**\
+ - 📍 **Uttarakhand Technical University**-----------------------**< 2021-2025 >**\
   🏫**College of Engineering Roorkee**
     📖**Bachelor's of Computer Science and Engineering-< Btech CSE >**
  
