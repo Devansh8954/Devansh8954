@@ -83,9 +83,11 @@ technologies to meet future requirements.</br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devansh-tyagi-541b2917b/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/vanshtyagi349/)
 </p>
-
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Devansh8954&show_icons=true&theme=radical" alt="Devansh Tyagi github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats">
-
+<!-- 
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Devansh8954&show_icons=true&theme=radical" alt="Devansh Tyagi github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devansh8954" alt="devansh-tyagi" /></a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh8954&show_icons=true&locale=en" alt="devansh-tyagi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devansh8954&" alt="devansh-tyagi" /></p>
 
 
 
