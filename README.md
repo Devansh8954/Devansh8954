@@ -49,7 +49,7 @@ technologies to meet future requirements.</br>
 - any collobration work,
 - web development projects(development or research),
 - research internships and;
-- available to become reviewer or PC member for Data mining journals or conferences.
+- available to become hecker or PC member for Data mining journals or conferences.
 
 <details>
    <summary>📃 Education</summary>
