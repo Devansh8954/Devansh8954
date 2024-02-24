@@ -52,7 +52,7 @@ technologies to meet future requirements.</br>
 - available to become hecker or PC member for Data mining journals or conferences.
 
 <details>
-   <summary>📃 Education</summary>
+   <summary>📃Education</summary>
 
  ## Education
  - 📍 **Uttarakhand Technical University**-----------------------**< 2021-2025 >**\
