@@ -29,7 +29,7 @@ I am an intermediate Full stack Web developer. I am always enthusiastic about ne
 - 💬 Ask me about **Web Development** , **Open Source Contributions**.
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **devansh8954@gmail.com**
-- ⚡ Fun fact: I love designing and travelling to explore new places.
+- ⚡ Fun fact: I love developing and hecking.
 - ❤️ Building a community to make an impact by training new generations on cutting edge \
 technologies to meet future requirements.</br>
 
