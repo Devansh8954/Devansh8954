@@ -85,7 +85,7 @@ technologies to meet future requirements.</br>
 </p>
 <!-- 
  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Devansh8954&show_icons=true&theme=radical" alt="Devansh Tyagi github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"> -->
-<p>[![trophy](https://github-profile-trophy.vercel.app/?username=devansh8954)](https://github.com/ryo-ma/github-profile-trophy)</p>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=devansh8954)](https://github.com/ryo-ma/github-profile-trophy)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh8954&show_icons=true&locale=en" alt="devansh-tyagi" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devansh8954&" alt="devansh-tyagi" /></p>
 
