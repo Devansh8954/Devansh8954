@@ -94,6 +94,7 @@ technologies to meet future requirements.</br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh8954" alt="devansh-tyagi" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devansh8954" alt="devansh-tyagi" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh8954&theme=radical&layout=compact" />
 
 
 
