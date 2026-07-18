@@ -36,19 +36,17 @@ const devansh = {
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub At a Glance
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh8954&theme=tokyonight&hide_border=true&background=0d1117&ring=7C83FD&fire=7C83FD&currStreakLabel=7C83FD&dates=c9d1d9" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh8954&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=7C83FD&bg_color=0d1117&text_color=c9d1d9" height="160"/>
-
-<br/>
-
-![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh8954&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&bg_color=0d1117)
+![Commits](https://img.shields.io/badge/Total_Commits-2%2C400%2B-7C83FD?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Repositories-20%2B-7C83FD?style=for-the-badge&logo=github&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-350%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Experience](https://img.shields.io/badge/Experience-Google_%7C_McKinsey_%7C_BoB-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
+
 
 ---
 
