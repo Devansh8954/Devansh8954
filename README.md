@@ -169,17 +169,11 @@ Built cloud apps on **GCP** (BigQuery, Compute Engine, Cloud Storage). Developed
 
 ---
 
-## 🐍 Contribution Snake
+## 💬 Most Used Languages
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devansh8954/Devansh8954/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devansh8954/Devansh8954/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Devansh8954/Devansh8954/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh8954&theme=tokyo-night&hide_border=true&area=true&area_color=7C83FD&color=7C83FD&line=7C83FD&point=ffffff" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh8954&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&title_color=7C83FD&bg_color=0d1117" height="220"/>
 
 </div>
 
