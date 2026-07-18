@@ -122,6 +122,7 @@ const devansh = {
 |---|---|:---:|
 | 🤖 **[AI Pulse — Predictive Inventory Management](https://github.com/Devansh8954/AI-PULSE-PREDICTIVE-INVENTORY-MANAGEMENT-SYSTEM-)** | Angular · Node · MySQL · Docker · AWS · Gemini AI · CI/CD | [▶ Live](https://ai-pulse-inventory.duckdns.org) |
 | 💬 **[AI Mental Health Chatbot](https://github.com/Devansh8954/Nodejs_gemini-main)** | Node.js · Express · Gemini AI · HTML · CSS · Render | [▶ Live](https://nodejs-gemini-main.onrender.com/) |
+| 📊 **[HR Analytics Dashboard](https://github.com/Devansh8954)** | Power BI · SQL · Excel · DAX | — |
 
 </div>
 
@@ -148,6 +149,18 @@ const devansh = {
 - 💡 Conversational AI chatbot backed by **Google Gemini API** with real-time responses
 - ☁️ Cloud-hosted on **Render** — **99.9% uptime**, responsive frontend
 - 📐 Modular REST API architecture built for clean scalability
+
+---
+
+### 📊 HR Analytics Dashboard
+
+> Data-driven workforce insights using Power BI, SQL, and Excel
+
+- 📈 Built an **interactive Power BI dashboard** to analyze employee **attrition, salary trends, and workforce demographics** across departments
+- 🧮 Authored advanced **DAX measures** and **calculated columns** to derive KPIs like attrition rate, avg. tenure, and salary bands
+- 🔍 Wrote complex **SQL queries** to clean, join, and aggregate raw HR datasets before visualization
+- 🎛️ Implemented **dynamic slicers and drill-through filters** enabling non-technical stakeholders to self-serve insights
+- 📊 Designed report layout following **data storytelling** best practices — enabling faster, evidence-based HR decisions
 
 ---
 
