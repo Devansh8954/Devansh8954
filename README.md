@@ -39,37 +39,50 @@ const devansh = {
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Devansh8954&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&bg_color=0d1117" height="175"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh8954&theme=tokyonight&hide_border=true&background=0d1117&ring=7C83FD&fire=7C83FD&currStreakLabel=7C83FD" height="175"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Devansh8954&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5"/>
-
+<table border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Devansh8954&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&bg_color=0d1117" height="165"/>
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh8954&theme=tokyonight&hide_border=true&background=0d1117&ring=7C83FD&fire=7C83FD&currStreakLabel=7C83FD" height="165"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh8954&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=7C83FD&bg_color=0d1117" height="165"/>
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages**
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white)
 
-**Frontend**
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Backend & Database**
+</td>
+</tr>
+<tr>
+<td><b>Backend & DB</b></td>
+<td>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -77,7 +90,11 @@ const devansh = {
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Cloud & DevOps**
+</td>
+</tr>
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td>
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -87,13 +104,19 @@ const devansh = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-**Tools**
+</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -168,14 +191,6 @@ Built cloud apps on **GCP** (BigQuery, Compute Engine, Cloud Storage). Developed
 [![Google](https://img.shields.io/badge/Google_Cloud_Profile-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
 
 ---
-
-## 💬 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh8954&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&title_color=7C83FD&bg_color=0d1117" height="220"/>
-
-</div>
 
 ---
 
