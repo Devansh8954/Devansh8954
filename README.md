@@ -1,128 +1,166 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<div align="center">
 
+# 👋 Hi, I'm Devansh Tyagi
 
-<!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
+### Full Stack Developer · Cloud Engineer · Problem Solver
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Angular+%2B+Node.js;Cloud+Engineer+%7C+GCP+%2B+AWS+EC2;350%2B+LeetCode+Problems+Solved;Building+AI-powered+Applications)](https://git.io/typing-svg)
 
-### Hi there, I'm [Devansh Tyagi](https://www.linkedin.com/in/devansh-tyagi-541b2917b/)<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+<br/>
 
-I am an intermediate Full stack Web developer and Ethical Hecker. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshtyagi1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devansh8954)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/devansh8954)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh8954@gmail.com)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud_Profile-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
 
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Devansh8954&label=Profile%20views&color=32CD32&style=flat" alt="Devansh8954" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+---
 
-### `Coding Profiles:`
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/devansh8954/)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/devansh8954/profile)
-[![work@tech](https://img.shields.io/badge/-work@tech-blue?style=flat&amp;labelColor=white&amp;logo=work@tech&amp;logoColor=blue)](https://workat.tech/profile)
-[![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&amp;labelColor=white&amp;logo=binarysearch&amp;logoColor=darkblue)](https://binarysearch.com)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/devansh8954)
-[![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com/@devansh8954)
-[![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com)
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com)
-[![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com)
+## 🚀 About Me
 
-- 🌱 I’m currently in love with <b>Full Stack Web Development</b>.
-- 🔭 Simultaneously exploring <b>Web3</b>
-- 💬 Ask me about **Web Development** , **Open Source Contributions**.
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at : **devansh8954@gmail.com**
-- ⚡ Fun fact: I love developing and hecking.
-- ❤️ Building a community to make an impact by training new generations on cutting edge \
-technologies to meet future requirements.</br>
+I'm a **Full Stack Developer** and **Cloud Engineer** passionate about building scalable, production-grade applications. I architect end-to-end systems — from Angular frontends to Node.js/Express backends — and deploy them on cloud infrastructure using **Docker**, **AWS EC2**, and **GCP**.
 
+- 🔭 Currently working as an **Apprentice at Bank of Baroda**, automating workflows with n8n and REST APIs
+- 🤖 Building AI-powered applications using **Google Gemini AI**
+- ☁️ Experienced in cloud deployments with **CI/CD pipelines**, **Nginx**, and **HTTPS/SSL**
+- 🧩 Solved **350+ problems** on LeetCode (DSA & Algorithms)
+- 📂 **2,000+ commits** across 20+ GitHub repositories
+- 🎓 B.Tech in Computer Science & Engineering — UTU (CGPA: 8.10/10)
 
-### `My Reseach Interest`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283558-6c53d514-1a4a-4ad0-acd8-33d97ba5ac07.gif">:
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">
+---
 
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+## 🛠️ Tech Stack
 
- ### `I am open to`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283483-1b2b2630-f02a-487b-823a-839d3739452a.gif">:
+<div align="center">
 
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- any collobration work,
-- web development projects(development or research),
-- research internships and;
-- available to become hecker or PC member for Data mining journals or conferences.
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<details>
-   <summary>📃Education</summary>
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
- ## Education
- - 📍 **Uttarakhand Technical University**-----------------------**< 2021-2025 >**\
-  🏫**College of Engineering Roorkee**
-    📖**Bachelor's of Computer Science and Engineering-< Btech CSE >**
- 
- - 📍 **Seventh Day Adventist Inter College Roorkee**------------------**< 2020-2021 >**\
-   📖**Senior Secondary Schooling-< Intermediate Science >**
-    🏫**ISC Board**
- 
- - 📍 **Seventh Day Adventist Inter College Roorkee**------------------**< 2019-2020 >**\
-   📖**High School**
-     🏫**ICSE Board**
-   
-   </details>
-   
-### `💻 Languages and Tools`<img  alt="Coding" width="35" src="https://user-images.githubusercontent.com/71630336/167283646-f631f134-0457-4760-a2e8-5801d4c6a915.gif">:   
-   
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescipt" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="40" height="40"/> </a></p>
+### Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-   ### `Connect with me` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">:
+</div>
 
-<p align = "center">
+---
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/Devansh8954)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Devansh78563365) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devanshtyagi1/)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/vanshtyagi349/)
-</p>
-<!-- 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Devansh8954&show_icons=true&theme=radical" alt="Devansh Tyagi github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"> -->
-<!-- <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devansh8954" alt="devansh-tyagi" /></a></p> -->
+## 📌 Featured Projects
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devansh8954" alt="Devansh Profile Trophy" style="width: 100%;">
-</a>
+### 🤖 [AI Pulse — Predictive Inventory Management System](https://github.com/Devansh8954/AI-PULSE-PREDICTIVE-INVENTORY-MANAGEMENT-SYSTEM-)
 
+> 🌐 **[Live Demo](https://ai-pulse-inventory.duckdns.org)** · Full-stack, cloud-native inventory platform powered by Google Gemini AI
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh8954" alt="devansh-tyagi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devansh8954" alt="devansh-tyagi" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh8954&theme=radical&layout=compact" />
+**Tech Stack:** `Angular` `Node.js` `Express.js` `MySQL` `Docker` `AWS EC2` `Nginx` `Let's Encrypt` `Gemini AI` `GitHub Actions`
 
+- 🏗️ Architected a **3-tier platform** deployed on AWS EC2 via multi-stage Docker Compose pipeline
+- 🧠 Integrated **Google Gemini AI** to forecast market trends against live MySQL stock, reducing manual restocking by **60%**
+- ⚡ Eliminated data race conditions using **Optimistic Concurrency Control (OCC)** for simultaneous warehouse updates
+- 🔒 Secured with **Nginx reverse proxy**, automated Let's Encrypt HTTPS, JWT authentication & strict RBAC
+- 🚀 Established **GitHub Actions CI/CD pipeline** with ESLint + **40+ Jest unit tests** (85%+ coverage)
 
+---
 
-<!--
+### 💬 [AI Mental Health Chatbot](https://github.com/Devansh8954/Nodejs_gemini-main)
 
-intro-
+> 🌐 **[Live Demo](https://nodejs-gemini-main.onrender.com/)** · Conversational AI chatbot for mental wellness support
 
-Hello everyone, my name is Devansh Tyagi and currently I am pursuing my Bachelor's of Technology in College of engineering, Roorkee.I am very curious and excited about technologies and have the ability to explore many more things at the same time.Right now I am improving my skills in web development and trying to make it better and better. I am learning frontend things inside web development and then gradually I will try to learn backend. Due to this, my skills will go further towards full development, which will instill some confidence in me, and then I will get a chance to learn new things.
+**Tech Stack:** `JavaScript` `Node.js` `Express.js` `Google Gemini AI` `HTML5` `CSS3` `Render`
 
+- 🔧 Developed scalable backend services with Node.js & Express.js integrated with **Google Gemini AI**
+- ☁️ Deployed on **Render** maintaining **99.9% uptime**
+- 📐 Designed a responsive frontend with modular API architecture for improved scalability
 
+---
 
+## 💼 Experience
 
-linkedin-
+| Role | Organization | Period |
+|------|-------------|--------|
+| 🏦 **Apprentice** | Bank of Baroda | Feb 2026 – Present |
+| 📊 **McKinsey Forward Program Intern** | McKinsey & Company *(Remote)* | Aug 2025 – Dec 2025 |
+| ☁️ **Technical Trainee** | Google Cloud Arcade — Google India *(Remote)* | Apr 2025 – Jul 2025 |
 
-Hello Connections, 
+---
 
-My name is Devansh Tyagi and I am a student at the College of Engineering Roorkee, Recently I joined GitHub(****https://github.com/Devansh8954****), where I got to learn a lot and also explore a lot,and I'd love to join you there. I hope you guys will help me with some important contributions as well as some important connections as well.And from the pilot programme that was running at my college, I learned a lot of fundamental things that are very important to me.And I have tried to enhance my skills in web development as well as game development, which will make me more efficient.The credit goes to Sagar Gulati, sir who took a step towards something new, for which I am very grateful.I hope you guys will be of great help in my contribution. I would be very happy to join you and be able to learn something new from you.
+## 📊 GitHub Stats
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Devansh8954&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh8954&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh8954&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+- 🔥 **2,000+ commits** across 20+ GitHub repositories
+- 💡 **350+ LeetCode problems** solved (DSA & Algorithms)
+- 🏛️ Participated in **IIT Cognizance workshops**, hackathons, and coding contests
+- 🎓 B.Tech CSE — **First Division with Honors** (CGPA: 8.10/10)
+
+---
+
+## 📜 Certifications
+
+| Certificate | Issuer |
+|-------------|--------|
+| 🧱 [Data Structures in C++](https://certificate.codingninjas.com/view/946b157ba198bc8c) | Coding Ninjas |
+| 🤖 [Python and Deep Learning](https://www.cert.devtown.in/verify/1Wyfoh) | Google Developers Group |
+| 🌐 [Web Development](https://www.coursera.org/account/accomplishments/verify/64HSNBCXBUU5) | Coursera |
+| ⚡ [Angular Development](https://drive.google.com/file/d/1fvwKYyR7jsAiwqGMRPtBGO_BpcEm3dZ0/view) | Udemy |
+| ☁️ [Google Cloud Profile & Certificates](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db) | Google |
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science & Engineering** — Uttarakhand Technical University (2021–2025)
+> CGPA: 8.10/10 · *First Division with Honors*
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Great!
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshtyagi1)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh8954@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Devansh8954&color=0078D7&style=for-the-badge&label=Profile+Views)
+
+</div>
