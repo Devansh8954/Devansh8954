@@ -6,11 +6,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshtyagi1)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh8954@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/devansh8954)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
-[![Live App](https://img.shields.io/badge/Live_App-AI_Pulse-7C83FD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshtyagi1)
+[![Send Gmail](https://img.shields.io/badge/Send_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh8954@gmail.com)
+[![View LeetCode](https://img.shields.io/badge/View_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/devansh8954)
+[![Google Cloud Skills](https://img.shields.io/badge/Google_Cloud_Skills-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
+[![AI Pulse Live](https://img.shields.io/badge/AI_Pulse_Live-7C83FD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Devansh8954&color=7C83FD&style=flat-square&label=Profile+Views)
 
@@ -40,10 +40,10 @@ const devansh = {
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Total_Commits-2400_Plus-7C83FD?style=for-the-badge&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Repositories-20_Plus-7C83FD?style=for-the-badge&logo=github&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-350_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Experience](https://img.shields.io/badge/Experience-Google_McKinsey_BoB-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Commits](https://img.shields.io/badge/GitHub_Commits-2400_Plus-7C83FD?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Repos](https://img.shields.io/badge/GitHub_Repos-20_Plus-7C83FD?style=for-the-badge&logo=github&logoColor=white)
+![DSA Solved](https://img.shields.io/badge/DSA_Solved-350_Plus-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Companies](https://img.shields.io/badge/Companies-Google_McKinsey_BoB-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
@@ -81,7 +81,7 @@ const devansh = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
