@@ -1,9 +1,5 @@
-<!-- v6 -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=800&color=A0A3FF&center=true&vCenter=true&width=750&height=40&lines=Full+Stack+Engineer+%7C+Cloud+%26+DevOps+%7C+AI+Integration" alt="Role"/>
-</div>
-
-<br/>
+<!-- v7 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Devansh%20Tyagi&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20AI%20Integration&descAlignY=60&descSize=18&animation=fadeIn"/>
 
 <div align="center">
 
@@ -201,3 +197,5 @@ const devansh = {
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh8954@gmail.com)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
