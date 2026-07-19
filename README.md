@@ -130,8 +130,8 @@ const devansh = {
 
 > A real, production-deployed system — not a tutorial clone
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Devansh8954/AI-PULSE-PREDICTIVE-INVENTORY-MANAGEMENT-SYSTEM-)
-[![Live](https://img.shields.io/badge/Live-ai_pulse_duckdns-28a745?style=flat-square&logo=googlechrome&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Devansh8954/AI-PULSE-PREDICTIVE-INVENTORY-MANAGEMENT-SYSTEM-)
+[![Demo Live](https://img.shields.io/badge/Demo-Live_Site-28a745?style=flat-square&logo=googlechrome&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
 
 - 🏗️ **3-tier architecture** (Angular → Express API → MySQL) deployed on **AWS EC2** via Docker Compose
 - 🧠 **Google Gemini AI** forecasts restocking demand against live DB — cutting manual effort by **60%**
@@ -143,8 +143,8 @@ const devansh = {
 
 ### 💬 AI Mental Health Chatbot
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Devansh8954/Nodejs_gemini-main)
-[![Live](https://img.shields.io/badge/Live-Render_Hosted-28a745?style=flat-square&logo=googlechrome&logoColor=white)](https://nodejs-gemini-main.onrender.com/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Devansh8954/Nodejs_gemini-main)
+[![Demo Live](https://img.shields.io/badge/Demo-Render_App-28a745?style=flat-square&logo=googlechrome&logoColor=white)](https://nodejs-gemini-main.onrender.com/)
 
 - 💡 Conversational AI chatbot backed by **Google Gemini API** with real-time responses
 - ☁️ Cloud-hosted on **Render** — **99.9% uptime**, responsive frontend
@@ -191,11 +191,11 @@ Built cloud apps on **GCP** (BigQuery, Compute Engine, Cloud Storage). Developed
 
 ## 📜 Certifications
 
-[![Coding Ninjas](https://img.shields.io/badge/Data_Structures_in_CPP-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://certificate.codingninjas.com/view/946b157ba198bc8c)
-[![GDG](https://img.shields.io/badge/Python_and_Deep_Learning-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.cert.devtown.in/verify/1Wyfoh)
-[![Coursera](https://img.shields.io/badge/Web_Development-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/64HSNBCXBUU5)
-[![Udemy](https://img.shields.io/badge/Angular_Development-EC5252?style=flat-square&logo=udemy&logoColor=white)](https://drive.google.com/file/d/1fvwKYyR7jsAiwqGMRPtBGO_BpcEm3dZ0/view)
-[![Google](https://img.shields.io/badge/Google_Cloud_Profile-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
+[![Cert DSA CPP](https://img.shields.io/badge/Cert-Data_Structures_CPP-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://certificate.codingninjas.com/view/946b157ba198bc8c)
+[![Cert Python DL](https://img.shields.io/badge/Cert-Python_Deep_Learning-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.cert.devtown.in/verify/1Wyfoh)
+[![Cert Web Dev](https://img.shields.io/badge/Cert-Web_Development-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/64HSNBCXBUU5)
+[![Cert Angular](https://img.shields.io/badge/Cert-Angular_Dev-EC5252?style=flat-square&logo=udemy&logoColor=white)](https://drive.google.com/file/d/1fvwKYyR7jsAiwqGMRPtBGO_BpcEm3dZ0/view)
+[![Cert GCP](https://img.shields.io/badge/Cert-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
 
 ---
 
