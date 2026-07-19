@@ -6,11 +6,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshtyagi1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=2)](https://linkedin.com/in/devanshtyagi1)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh8954@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/devansh8954)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
-[![Live App](https://img.shields.io/badge/Live_App-AI_Pulse-7C83FD?style=for-the-badge&logo=amazonaws&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
+[![Live App](https://img.shields.io/badge/Live_App-AI_Pulse-7C83FD?style=for-the-badge&logo=amazonaws&logoColor=white&v=2)](https://ai-pulse-inventory.duckdns.org)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Devansh8954&color=7C83FD&style=flat-square&label=Profile+Views)
 
@@ -40,10 +40,10 @@ const devansh = {
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Total_Commits-2%2C400%2B-7C83FD?style=for-the-badge&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Repositories-20%2B-7C83FD?style=for-the-badge&logo=github&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-350%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Experience](https://img.shields.io/badge/Experience-Google_%7C_McKinsey_%7C_BoB-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Commits](https://img.shields.io/badge/Total_Commits-2%2C400%2B-7C83FD?style=for-the-badge&logo=github&logoColor=white&v=2)
+![Repos](https://img.shields.io/badge/Repositories-20%2B-7C83FD?style=for-the-badge&logo=github&logoColor=white&v=2)
+![LeetCode](https://img.shields.io/badge/LeetCode-350%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&v=2)
+![Experience](https://img.shields.io/badge/Experience-Google_%7C_McKinsey_%7C_BoB-4285F4?style=for-the-badge&logo=google&logoColor=white&v=2)
 
 </div>
 
@@ -81,7 +81,7 @@ const devansh = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&v=2)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
@@ -191,11 +191,11 @@ Built cloud apps on **GCP** (BigQuery, Compute Engine, Cloud Storage). Developed
 
 ## 📜 Certifications
 
-[![Coding Ninjas](https://img.shields.io/badge/Data_Structures_in_C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://certificate.codingninjas.com/view/946b157ba198bc8c)
-[![GDG](https://img.shields.io/badge/Python_%26_Deep_Learning-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.cert.devtown.in/verify/1Wyfoh)
-[![Coursera](https://img.shields.io/badge/Web_Development-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/64HSNBCXBUU5)
-[![Udemy](https://img.shields.io/badge/Angular_Development-EC5252?style=flat-square&logo=udemy&logoColor=white)](https://drive.google.com/file/d/1fvwKYyR7jsAiwqGMRPtBGO_BpcEm3dZ0/view)
-[![Google](https://img.shields.io/badge/Google_Cloud_Profile-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
+[![Coding Ninjas](https://img.shields.io/badge/Data_Structures_in_C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&v=2)](https://certificate.codingninjas.com/view/946b157ba198bc8c)
+[![GDG](https://img.shields.io/badge/Python_%26_Deep_Learning-4285F4?style=flat-square&logo=google&logoColor=white&v=2)](https://www.cert.devtown.in/verify/1Wyfoh)
+[![Coursera](https://img.shields.io/badge/Web_Development-0056D2?style=flat-square&logo=coursera&logoColor=white&v=2)](https://www.coursera.org/account/accomplishments/verify/64HSNBCXBUU5)
+[![Udemy](https://img.shields.io/badge/Angular_Development-EC5252?style=flat-square&logo=udemy&logoColor=white&v=2)](https://drive.google.com/file/d/1fvwKYyR7jsAiwqGMRPtBGO_BpcEm3dZ0/view)
+[![Google](https://img.shields.io/badge/Google_Cloud_Profile-4285F4?style=flat-square&logo=google-cloud&logoColor=white&v=2)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
 
 ---
 
@@ -206,7 +206,7 @@ Built cloud apps on **GCP** (BigQuery, Compute Engine, Cloud Storage). Developed
 ### Let's build something great together 🚀
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshtyagi1)
-[![Email](https://img.shields.io/badge/devansh8954%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh8954@gmail.com)
+[![Email](https://img.shields.io/badge/devansh8954%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&v=2)](mailto:devansh8954@gmail.com)
 
 **Open to Full Stack · Backend · Cloud Engineering roles**
 
