@@ -40,10 +40,10 @@ const devansh = {
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Total_Commits-2%2C400%2B-7C83FD?style=for-the-badge&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Repositories-20%2B-7C83FD?style=for-the-badge&logo=github&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-350%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Experience](https://img.shields.io/badge/Experience-Google_%7C_McKinsey_%7C_BoB-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Commits](https://img.shields.io/badge/Total_Commits-2400_Plus-7C83FD?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Repositories-20_Plus-7C83FD?style=for-the-badge&logo=github&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-350_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Experience](https://img.shields.io/badge/Experience-Google_McKinsey_BoB-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
@@ -57,7 +57,7 @@ const devansh = {
 <td><b>Languages</b></td>
 <td>
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white)
@@ -75,7 +75,7 @@ const devansh = {
 </td>
 </tr>
 <tr>
-<td><b>Backend & DB</b></td>
+<td><b>Backend and DB</b></td>
 <td>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -87,7 +87,7 @@ const devansh = {
 </td>
 </tr>
 <tr>
-<td><b>Cloud & DevOps</b></td>
+<td><b>Cloud and DevOps</b></td>
 <td>
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -131,7 +131,7 @@ const devansh = {
 > A real, production-deployed system — not a tutorial clone
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Devansh8954/AI-PULSE-PREDICTIVE-INVENTORY-MANAGEMENT-SYSTEM-)
-[![Live](https://img.shields.io/badge/Live-ai--pulse--inventory.duckdns.org-28a745?style=flat-square&logo=googlechrome&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
+[![Live](https://img.shields.io/badge/Live-ai_pulse_duckdns-28a745?style=flat-square&logo=googlechrome&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
 
 - 🏗️ **3-tier architecture** (Angular → Express API → MySQL) deployed on **AWS EC2** via Docker Compose
 - 🧠 **Google Gemini AI** forecasts restocking demand against live DB — cutting manual effort by **60%**
@@ -144,7 +144,7 @@ const devansh = {
 ### 💬 AI Mental Health Chatbot
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Devansh8954/Nodejs_gemini-main)
-[![Live](https://img.shields.io/badge/Live-Render-28a745?style=flat-square&logo=googlechrome&logoColor=white)](https://nodejs-gemini-main.onrender.com/)
+[![Live](https://img.shields.io/badge/Live-Render_Hosted-28a745?style=flat-square&logo=googlechrome&logoColor=white)](https://nodejs-gemini-main.onrender.com/)
 
 - 💡 Conversational AI chatbot backed by **Google Gemini API** with real-time responses
 - ☁️ Cloud-hosted on **Render** — **99.9% uptime**, responsive frontend
@@ -169,8 +169,8 @@ const devansh = {
 **🏦 Apprentice — Bank of Baroda** *(Feb 2026 – Present)*
 Built workflow automation pipelines with **n8n**, integrating REST APIs, email services, and data processing to reduce manual operational tasks.
 
-**📊 McKinsey Forward Program Intern — McKinsey & Company** *(Aug – Dec 2025 · Remote)*
-Solved business & technology case studies using structured frameworks. Strengthened analytical thinking and data-driven decision making.
+**📊 McKinsey Forward Program Intern — McKinsey and Company** *(Aug – Dec 2025 · Remote)*
+Solved business and technology case studies using structured frameworks. Strengthened analytical thinking and data-driven decision making.
 
 **☁️ Technical Trainee — Google Cloud Arcade, Google India** *(Apr – Jul 2025 · Remote)*
 Built cloud apps on **GCP** (BigQuery, Compute Engine, Cloud Storage). Developed REST APIs in Node.js and queried large datasets with BigQuery.
@@ -181,9 +181,9 @@ Built cloud apps on **GCP** (BigQuery, Compute Engine, Cloud Storage). Developed
 
 <div align="center">
 
-| 🔥 2,000+ Commits | 💡 350+ LeetCode | 📦 20+ Repositories | 🏛️ IIT Cognizance |
+| 🔥 2000 Plus Commits | 💡 350 Plus LeetCode | 📦 20 Plus Repositories | 🏛️ IIT Cognizance |
 |:---:|:---:|:---:|:---:|
-| Across all repos | DSA problems solved | Personal & collaborative | Workshops & Hackathons |
+| Across all repos | DSA problems solved | Personal and collaborative | Workshops and Hackathons |
 
 </div>
 
@@ -191,8 +191,8 @@ Built cloud apps on **GCP** (BigQuery, Compute Engine, Cloud Storage). Developed
 
 ## 📜 Certifications
 
-[![Coding Ninjas](https://img.shields.io/badge/Data_Structures_%26_Algorithms-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://certificate.codingninjas.com/view/946b157ba198bc8c)
-[![GDG](https://img.shields.io/badge/Python_%26_Deep_Learning-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.cert.devtown.in/verify/1Wyfoh)
+[![Coding Ninjas](https://img.shields.io/badge/Data_Structures_in_CPP-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://certificate.codingninjas.com/view/946b157ba198bc8c)
+[![GDG](https://img.shields.io/badge/Python_and_Deep_Learning-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.cert.devtown.in/verify/1Wyfoh)
 [![Coursera](https://img.shields.io/badge/Web_Development-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/64HSNBCXBUU5)
 [![Udemy](https://img.shields.io/badge/Angular_Development-EC5252?style=flat-square&logo=udemy&logoColor=white)](https://drive.google.com/file/d/1fvwKYyR7jsAiwqGMRPtBGO_BpcEm3dZ0/view)
 [![Google](https://img.shields.io/badge/Google_Cloud_Profile-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
@@ -206,7 +206,7 @@ Built cloud apps on **GCP** (BigQuery, Compute Engine, Cloud Storage). Developed
 ### Let's build something great together 🚀
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshtyagi1)
-[![Email](https://img.shields.io/badge/devansh8954%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh8954@gmail.com)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh8954@gmail.com)
 
 **Open to Full Stack · Backend · Cloud Engineering roles**
 
