@@ -1,6 +1,5 @@
 <!-- v6 -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=7C83FD&center=true&vCenter=true&width=700&height=80&lines=Devansh+Tyagi" alt="Devansh Tyagi"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=800&color=A0A3FF&center=true&vCenter=true&width=750&height=40&lines=Full+Stack+Engineer+%7C+Cloud+%26+DevOps+%7C+AI+Integration" alt="Role"/>
 </div>
 
@@ -16,7 +15,7 @@
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh8954@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/devansh8954)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
-[![AI Pulse](https://img.shields.io/badge/AI_Pulse-Live-28a745?style=for-the-badge&logo=github&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
+[![AI Pulse](https://img.shields.io/badge/AI_Pulse-Live_Demo-28a745?style=for-the-badge)](https://ai-pulse-inventory.duckdns.org)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Devansh8954&color=7C83FD&style=flat-square&label=Profile+Views)
 
@@ -78,7 +77,7 @@ const devansh = {
 > **Production-deployed · AWS EC2 · HTTPS · CI/CD · Real users**
 
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Devansh8954/AI-PULSE-PREDICTIVE-INVENTORY-MANAGEMENT-SYSTEM-)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-ai--pulse--duckdns-28a745?style=flat-square&logo=github&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-28a745?style=flat-square)](https://ai-pulse-inventory.duckdns.org)
 
 | Feature | Details |
 |---|---|
@@ -96,7 +95,7 @@ const devansh = {
 > **Cloud-hosted on Render · 99.9% uptime · Public REST API**
 
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Devansh8954/Nodejs_gemini-main)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-28a745?style=flat-square&logo=github&logoColor=white)](https://nodejs-gemini-main.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-28a745?style=flat-square)](https://nodejs-gemini-main.onrender.com/)
 
 - Conversational AI chatbot powered by **Google Gemini API** with real-time responses
 - Modular REST API backend built for clean scalability and easy integration
