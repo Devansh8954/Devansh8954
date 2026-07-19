@@ -9,9 +9,9 @@
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshtyagi1)
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh8954@gmail.com)
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/devansh8954)
-[![Cloud Skills](https://img.shields.io/badge/Cloud_Skills-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
-[![Live Project](https://img.shields.io/badge/Live_Project-7C83FD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/devansh8954)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
+[![Live App](https://img.shields.io/badge/Live_App-7C83FD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Devansh8954&color=7C83FD&style=flat-square&label=Profile+Views)
 
