@@ -11,7 +11,7 @@
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh8954@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/devansh8954)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
-[![Live App](https://img.shields.io/badge/Live_App-7C83FD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
+[![Live App](https://img.shields.io/badge/Live_App-7C83FD?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Devansh8954&color=7C83FD&style=flat-square&label=Profile+Views)
 
@@ -80,7 +80,7 @@ const devansh = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JSON Web Token](https://img.shields.io/badge/JSON_Web_Token-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![JSON Web Token](https://img.shields.io/badge/JSON_Web_Token-000000?style=flat-square&logo=auth0&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
@@ -130,7 +130,7 @@ const devansh = {
 > A real, production-deployed system — not a tutorial clone
 
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Devansh8954/AI-PULSE-PREDICTIVE-INVENTORY-MANAGEMENT-SYSTEM-)
-[![Open Live App](https://img.shields.io/badge/Open_Live_App-28a745?style=flat-square&logo=googlechrome&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
+[![Open Live App](https://img.shields.io/badge/Open_Live_App-28a745?style=flat-square&logo=vercel&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
 
 - 🏗️ **3-tier architecture** (Angular → Express API → MySQL) deployed on **AWS EC2** via Docker Compose
 - 🧠 **Google Gemini AI** forecasts restocking demand against live DB — cutting manual effort by **60%**
@@ -143,7 +143,7 @@ const devansh = {
 ### 💬 AI Mental Health Chatbot
 
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Devansh8954/Nodejs_gemini-main)
-[![Open Live App](https://img.shields.io/badge/Open_Live_App-28a745?style=flat-square&logo=googlechrome&logoColor=white)](https://nodejs-gemini-main.onrender.com/)
+[![Open Live App](https://img.shields.io/badge/Open_Live_App-28a745?style=flat-square&logo=vercel&logoColor=white)](https://nodejs-gemini-main.onrender.com/)
 
 - 💡 Conversational AI chatbot backed by **Google Gemini API** with real-time responses
 - ☁️ Cloud-hosted on **Render** — **99.9% uptime**, responsive frontend
