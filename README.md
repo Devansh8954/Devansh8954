@@ -7,10 +7,10 @@
 <br/>
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshtyagi1)
-[![Send Gmail](https://img.shields.io/badge/Send_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh8954@gmail.com)
-[![View LeetCode](https://img.shields.io/badge/View_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/devansh8954)
-[![Google Cloud Skills](https://img.shields.io/badge/Google_Cloud_Skills-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
-[![AI Pulse Live](https://img.shields.io/badge/AI_Pulse_Live-7C83FD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh8954@gmail.com)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/devansh8954)
+[![Cloud Skills](https://img.shields.io/badge/Cloud_Skills-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
+[![Live Project](https://img.shields.io/badge/Live_Project-7C83FD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Devansh8954&color=7C83FD&style=flat-square&label=Profile+Views)
 
@@ -40,13 +40,11 @@ const devansh = {
 
 <div align="center">
 
-![GitHub Commits](https://img.shields.io/badge/GitHub_Commits-2400_Plus-7C83FD?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Repos](https://img.shields.io/badge/GitHub_Repos-20_Plus-7C83FD?style=for-the-badge&logo=github&logoColor=white)
-![DSA Solved](https://img.shields.io/badge/DSA_Solved-350_Plus-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Companies](https://img.shields.io/badge/Companies-Google_McKinsey_BoB-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+| 🔥 2400+ Commits | 💡 350+ LeetCode | 📦 20+ Repositories | 🏢 Google · McKinsey · BoB |
+|:---:|:---:|:---:|:---:|
+| Across all repos | DSA problems solved | Personal & collaborative | Professional experience |
 
 </div>
-
 
 ---
 
@@ -81,7 +79,7 @@ const devansh = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT Auth](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![JSON Web Token](https://img.shields.io/badge/JSON_Web_Token-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
@@ -130,8 +128,8 @@ const devansh = {
 
 > A real, production-deployed system — not a tutorial clone
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Devansh8954/AI-PULSE-PREDICTIVE-INVENTORY-MANAGEMENT-SYSTEM-)
-[![Demo Live](https://img.shields.io/badge/Demo-Live_Site-28a745?style=flat-square&logo=googlechrome&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Devansh8954/AI-PULSE-PREDICTIVE-INVENTORY-MANAGEMENT-SYSTEM-)
+[![Open Live App](https://img.shields.io/badge/Open_Live_App-28a745?style=flat-square&logo=googlechrome&logoColor=white)](https://ai-pulse-inventory.duckdns.org)
 
 - 🏗️ **3-tier architecture** (Angular → Express API → MySQL) deployed on **AWS EC2** via Docker Compose
 - 🧠 **Google Gemini AI** forecasts restocking demand against live DB — cutting manual effort by **60%**
@@ -143,8 +141,8 @@ const devansh = {
 
 ### 💬 AI Mental Health Chatbot
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Devansh8954/Nodejs_gemini-main)
-[![Demo Live](https://img.shields.io/badge/Demo-Render_App-28a745?style=flat-square&logo=googlechrome&logoColor=white)](https://nodejs-gemini-main.onrender.com/)
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Devansh8954/Nodejs_gemini-main)
+[![Open Live App](https://img.shields.io/badge/Open_Live_App-28a745?style=flat-square&logo=googlechrome&logoColor=white)](https://nodejs-gemini-main.onrender.com/)
 
 - 💡 Conversational AI chatbot backed by **Google Gemini API** with real-time responses
 - ☁️ Cloud-hosted on **Render** — **99.9% uptime**, responsive frontend
@@ -181,9 +179,9 @@ Built cloud apps on **GCP** (BigQuery, Compute Engine, Cloud Storage). Developed
 
 <div align="center">
 
-| 🔥 2000 Plus Commits | 💡 350 Plus LeetCode | 📦 20 Plus Repositories | 🏛️ IIT Cognizance |
+| 🔥 2000+ Commits | 💡 350+ LeetCode | 📦 20+ Repositories | 🏛️ IIT Cognizance |
 |:---:|:---:|:---:|:---:|
-| Across all repos | DSA problems solved | Personal and collaborative | Workshops and Hackathons |
+| Across all repos | DSA problems solved | Personal & collaborative | Workshops & Hackathons |
 
 </div>
 
@@ -191,13 +189,11 @@ Built cloud apps on **GCP** (BigQuery, Compute Engine, Cloud Storage). Developed
 
 ## 📜 Certifications
 
-[![Cert DSA CPP](https://img.shields.io/badge/Cert-Data_Structures_CPP-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://certificate.codingninjas.com/view/946b157ba198bc8c)
-[![Cert Python DL](https://img.shields.io/badge/Cert-Python_Deep_Learning-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.cert.devtown.in/verify/1Wyfoh)
-[![Cert Web Dev](https://img.shields.io/badge/Cert-Web_Development-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/64HSNBCXBUU5)
-[![Cert Angular](https://img.shields.io/badge/Cert-Angular_Dev-EC5252?style=flat-square&logo=udemy&logoColor=white)](https://drive.google.com/file/d/1fvwKYyR7jsAiwqGMRPtBGO_BpcEm3dZ0/view)
-[![Cert GCP](https://img.shields.io/badge/Cert-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
-
----
+- 🏅 [Data Structures in C++](https://certificate.codingninjas.com/view/946b157ba198bc8c) — Coding Ninjas
+- 🏅 [Python & Deep Learning](https://www.cert.devtown.in/verify/1Wyfoh) — GDG / DevTown
+- 🏅 [Web Development](https://www.coursera.org/account/accomplishments/verify/64HSNBCXBUU5) — Coursera
+- 🏅 [Angular Development](https://drive.google.com/file/d/1fvwKYyR7jsAiwqGMRPtBGO_BpcEm3dZ0/view) — Udemy
+- 🏅 [Google Cloud Profile](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db) — Google
 
 ---
 
@@ -205,8 +201,8 @@ Built cloud apps on **GCP** (BigQuery, Compute Engine, Cloud Storage). Developed
 
 ### Let's build something great together 🚀
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshtyagi1)
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh8954@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshtyagi1)
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh8954@gmail.com)
 
 **Open to Full Stack · Backend · Cloud Engineering roles**
 
