@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=7C83FD&center=true&vCenter=true&width=750&lines=Building+production-grade+full+stack+systems+%F0%9F%9A%80;Angular+%E2%86%92+Node.js+%E2%86%92+Docker+%E2%86%92+AWS+EC2+%E2%86%92+CI%2FCD;Distributed+Systems+%7C+Redis+%7C+Rate+Limiting+%7C+GCP;2400%2B+GitHub+commits+%7C+350%2B+LeetCode+solved+%F0%9F%94%A5;Google+%7C+McKinsey+%7C+Bank+of+Baroda+experience;Open+to+Full+Stack+%2F+Backend+%2F+Cloud+Engineering+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=7C83FD&center=true&vCenter=true&width=750&lines=Building+production-grade+full+stack+systems;Angular+->+Node.js+->+Docker+->+AWS+EC2+->+CI/CD;Distributed+Systems+%7C+Redis+%7C+Rate+Limiting+%7C+GCP;2400%2B+GitHub+commits+%7C+350%2B+LeetCode+solved;Google+%7C+McKinsey+%7C+Bank+of+Baroda+experience;Open+to+Full+Stack+%2F+Backend+%2F+Cloud+Engineering+roles)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,6 +18,8 @@
 
 </div>
 
+---
+
 ```ts
 const devansh = {
   role     : "Full Stack & Backend Engineer",
@@ -26,65 +28,63 @@ const devansh = {
   past     : ["McKinsey & Company", "Google Cloud"],
   builds   : "Production-deployed systems - full-stack products & distributed infrastructure",
   stack    : ["Angular", "Node.js", "Redis", "MySQL", "Docker", "AWS EC2", "GCP", "CI/CD"],
-  openTo   : "Full Stack - Backend - Cloud Engineering",
+  openTo   : "Full Stack | Backend | Cloud Engineering",
   contact  : "devansh8954@gmail.com",
 };
 ```
 
-> I don't just write code - I ship systems. Every project here is live on the internet with HTTPS, CI/CD, monitoring, and real users.
-
-
+> I don't just write code - I **ship systems.** Every project here is **live on the internet** with HTTPS, CI/CD, monitoring, and real users.
 
 ---
 
-### Apprentice Engineer - Bank of Baroda
-**Feb 2026 - Present - Full-time**
 
-- Built end-to-end workflow automation pipelines using n8n - reducing manual operational tasks by 40%+
-- Integrated REST APIs, email services, and data pipelines to automate financial reporting workflows
+### Apprentice Engineer - Bank of Baroda
+**Feb 2026 - Present | Full-time**
+
+- Built **end-to-end workflow automation** pipelines using **n8n** - reducing manual operational tasks by **40%+**
+- Integrated **REST APIs**, email services, and data pipelines to automate financial reporting workflows
 - Working with production-grade systems serving real banking customers
 
 ---
 
 ### McKinsey Forward Program - McKinsey & Company
-**Aug - Dec 2025 - Remote - Acceptance rate < 5%**
+**Aug - Dec 2025 | Remote | Acceptance rate < 5%**
 
-- Completed McKinsey's intensive global leadership & strategy program
-- Solved real-world business & technology case studies using structured problem-solving frameworks
+- Completed McKinsey's **intensive global leadership & strategy program**
+- Solved real-world business & technology case studies using **structured problem-solving frameworks**
 - Developed data-driven decision making and executive communication skills
 
 ---
 
 ### Technical Trainee - Google Cloud Arcade, Google India
-**Apr - Jul 2025 - Remote**
+**Apr - Jul 2025 | Remote**
 
-- Built cloud applications on GCP: BigQuery, Compute Engine, Cloud Storage, Cloud Functions
-- Developed and deployed REST APIs in Node.js integrated with BigQuery for large-scale data queries
-- Earned multiple Google Cloud Skills Badges across cloud engineering tracks
+- Built cloud applications on **GCP**: BigQuery, Compute Engine, Cloud Storage, Cloud Functions
+- Developed and deployed **REST APIs** in Node.js integrated with BigQuery for large-scale data queries
+- Earned **multiple Google Cloud Skills Badges** across cloud engineering tracks
 
 ---
 
 ### AI Pulse - Predictive Inventory Management System
-> **Production-deployed - AWS EC2 - HTTPS - CI/CD - Real users**
+> **Production-deployed | AWS EC2 | HTTPS | CI/CD | Real users**
 
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Devansh8954/AI-PULSE-PREDICTIVE-INVENTORY-MANAGEMENT-SYSTEM-)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-28a745?style=flat-square)](https://ai-pulse-inventory.duckdns.org)
 
 | Feature | Details |
 |---|---|
-| **Architecture** | 3-tier: Angular -> Express API -> MySQL, deployed on **AWS EC2** via Docker Compose |
+| **Architecture** | 3-tier: Angular to Express API to MySQL, deployed on **AWS EC2** via Docker Compose |
 | **AI Integration** | Google Gemini AI forecasts restocking demand - **60% reduction** in manual effort |
 | **Concurrency** | Optimistic Concurrency Control (OCC) - **zero race conditions** across warehouse writes |
 | **Security** | Nginx reverse proxy + **Let's Encrypt HTTPS** + JWT authentication + RBAC |
 | **CI/CD** | GitHub Actions - ESLint gating + **40+ Jest tests** at **85%+ coverage** |
 
-`Angular` - `Node.js` - `MySQL` - `Docker` - `AWS EC2` - `Nginx` - `GitHub Actions` - `Gemini AI`
-
+Angular | Node.js | MySQL | Docker | AWS EC2 | Nginx | GitHub Actions | Gemini AI
 
 ---
 
 ### Distributed API Rate Limiter
-> **Infrastructure - Production-deployed on GCP - TypeScript - Redis - Docker**
+> **Infrastructure | Production-deployed on GCP | TypeScript | Redis | Docker**
 
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Devansh8954/distributed-api-rate-limiter)
 [![Live API](https://img.shields.io/badge/Live_API-6f42c1?style=flat-square)](http://136.115.81.182:3000/api/health)
@@ -94,35 +94,35 @@ const devansh = {
 | **Problem Solved** | Protects APIs from DDoS and abuse - the same pattern used by Stripe, GitHub, and Google |
 | **Architecture** | Strategy Pattern - 2 pluggable algorithms (Fixed Window + Sliding Window) via env var |
 | **Distributed** | Redis as shared atomic counter - works correctly across **horizontally scaled** instances |
-| **Observability** | Prometheus `/metrics` endpoint + structured Winston JSON logs |
-| **CI/CD** | GitHub Actions - lint -> type-check -> tests -> Docker build with real Redis health check |
+| **Observability** | Prometheus metrics endpoint + structured Winston JSON logs |
+| **CI/CD** | GitHub Actions - lint to type-check to tests to Docker build with real Redis health check |
 
-`TypeScript` - `Node.js` - `Redis` - `Docker` - `GCP Compute Engine` - `Prometheus` - `GitHub Actions`
+TypeScript | Node.js | Redis | Docker | GCP Compute Engine | Prometheus | GitHub Actions
 
 ---
 
 ### AI Mental Health Chatbot
-> **Cloud-hosted on Render - 99.9% uptime - Public REST API**
+> **Cloud-hosted on Render | 99.9% uptime | Public REST API**
 
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Devansh8954/Nodejs_gemini-main)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-28a745?style=flat-square)](https://nodejs-gemini-main.onrender.com/)
 
-- Conversational AI chatbot powered by Google Gemini API with real-time responses
+- Conversational AI chatbot powered by **Google Gemini API** with real-time responses
 - Modular REST API backend built for clean scalability and easy integration
-- Cloud-hosted with 99.9% uptime and a responsive frontend
+- Cloud-hosted with **99.9% uptime** and a responsive frontend
 
-`Node.js` - `Express` - `Gemini AI` - `HTML` - `CSS` - `Render`
+Node.js | Express | Gemini AI | HTML | CSS | Render
 
 ---
 
 ### HR Analytics Dashboard
-> **Power BI - Advanced DAX - SQL Data Engineering**
+> **Power BI | Advanced DAX | SQL Data Engineering**
 
 - **Interactive Power BI dashboard** tracking attrition, salary bands, and workforce demographics
 - Advanced **DAX measures** for KPIs: attrition rate, avg. tenure, salary analysis
 - Complex **SQL queries** for data cleaning, joins, and aggregation before visualization
 
-`Power BI` - `SQL` - `Excel` - `DAX`
+Power BI | SQL | Excel | DAX
 
 ---
 
@@ -179,9 +179,9 @@ const devansh = {
 ## By the Numbers
 <div align="center">
 
-| Commits | LeetCode | Repos | Experience |
+| 2400+ Commits | 350+ LeetCode | 20+ Repos | Google, McKinsey, BoB |
 |:---:|:---:|:---:|:---:|
-| 2400+ Commits Across all repos | 350+ LeetCode DSA problems solved | 20+ Repos Personal & collaborative | Google, McKinsey, BoB Professional experience |
+| Across all repos | DSA problems solved | Personal | Professional experience |
 
 </div>
 
@@ -190,17 +190,17 @@ const devansh = {
 ## Certifications
 | Certificate | Issuer | Verify |
 |---|---|---|
-| Data Structures in C++ | Coding Ninjas | [View ->](https://certificate.codingninjas.com/view/946b157ba198bc8c) |
-| Python & Deep Learning | GDG / DevTown | [View ->](https://www.cert.devtown.in/verify/1Wyfoh) |
-| Web Development | Coursera | [View ->](https://www.coursera.org/account/accomplishments/verify/64HSNBCXBUU5) |
-| Angular Development | Udemy | [View ->](https://drive.google.com/file/d/1fvwKYyR7jsAiwqGMRPtBGO_BpcEm3dZ0/view) |
-| Google Cloud Skills | Google | [View ->](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db) |
+| Data Structures in C++ | Coding Ninjas | [View](https://certificate.codingninjas.com/view/946b157ba198bc8c) |
+| Python & Deep Learning | GDG / DevTown | [View](https://www.cert.devtown.in/verify/1Wyfoh) |
+| Web Development | Coursera | [View](https://www.coursera.org/account/accomplishments/verify/64HSNBCXBUU5) |
+| Angular Development | Udemy | [View](https://drive.google.com/file/d/1fvwKYyR7jsAiwqGMRPtBGO_BpcEm3dZ0/view) |
+| Google Cloud Skills | Google | [View](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db) |
 
 ---
 
 <div align="center">
 
-*Available for full-time positions - let's build something impactful together*
+*Available for full-time positions - let us build something impactful together*
 
 <br/>
 
