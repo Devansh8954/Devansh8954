@@ -104,7 +104,7 @@ TypeScript | Node.js | Redis | Express | Docker | GCP Cloud Run | Prometheus | G
 ### AI RAG Mental Health & Wellness Platform
 > **AI & RAG Infrastructure | Deployed on GCP Cloud Run | TypeScript | Google Gemini AI | Vector Engine | Docker**
 
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Devansh8954/Nodejs_gemini-main)
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Devansh8954/node-Gemini-project)
 [![Live Platform](https://img.shields.io/badge/Live_Platform-28a745?style=flat-square&logo=googlecloud&logoColor=white)](https://ai-rag-wellness-assistant-266670750120.asia-south1.run.app)
 
 | Feature | Details |
