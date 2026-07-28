@@ -13,6 +13,7 @@
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
 [![AI Pulse](https://img.shields.io/badge/AI_Pulse-Live_Demo-28a745?style=for-the-badge)](https://ai-pulse-inventory.duckdns.org)
 [![Rate Limiter](https://img.shields.io/badge/Rate_Limiter-Live_Dashboard-6f42c1?style=for-the-badge)](https://api-rate-limiter-266670750120.asia-south1.run.app/dashboard)
+[![AI RAG Wellness](https://img.shields.io/badge/AI_RAG_Wellness-Live_Platform-007acc?style=for-the-badge)](https://ai-rag-wellness-assistant-266670750120.asia-south1.run.app)
 ![Profile Views](https://komarev.com/ghpvc/?username=Devansh8954&color=7C83FD&style=flat-square&label=Profile+Views)
 
 </div>
@@ -104,6 +105,7 @@ TypeScript | Node.js | Redis | Express | Docker | GCP Cloud Run | Prometheus | G
 > **AI & RAG Infrastructure | Deployed on GCP Cloud Run | TypeScript | Google Gemini AI | Vector Engine | Docker**
 
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Devansh8954/Nodejs_gemini-main)
+[![Live Platform](https://img.shields.io/badge/Live_Platform-28a745?style=flat-square&logo=googlecloud&logoColor=white)](https://ai-rag-wellness-assistant-266670750120.asia-south1.run.app)
 
 | Feature | Details |
 |---|---|
