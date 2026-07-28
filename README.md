@@ -12,8 +12,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/devansh8954)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/b827f899-e377-4d11-8bef-ecfaf018b0db)
 [![AI Pulse](https://img.shields.io/badge/AI_Pulse-Live_Demo-28a745?style=for-the-badge)](https://ai-pulse-inventory.duckdns.org)
-[![Rate Limiter](https://img.shields.io/badge/Rate_Limiter-Live_API-6f42c1?style=for-the-badge)](http://136.115.81.182:3000/api/health)
-
+[![Rate Limiter](https://img.shields.io/badge/Rate_Limiter-Live_Dashboard-6f42c1?style=for-the-badge)](https://api-rate-limiter-266670750120.asia-south1.run.app/dashboard)
 ![Profile Views](https://komarev.com/ghpvc/?username=Devansh8954&color=7C83FD&style=flat-square&label=Profile+Views)
 
 </div>
@@ -84,20 +83,20 @@ Angular | Node.js | MySQL | Docker | AWS EC2 | Nginx | GitHub Actions | Gemini A
 ---
 
 ### Distributed API Rate Limiter
-> **Infrastructure | Production-deployed on GCP | TypeScript | Redis | Docker**
+> **Infrastructure | Deployed on GCP Cloud Run | TypeScript | Redis | Docker | Interactive Dashboard**
 
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Devansh8954/distributed-api-rate-limiter)
-[![Live API](https://img.shields.io/badge/Live_API-6f42c1?style=flat-square)](http://136.115.81.182:3000/api/health)
+[![Live Dashboard](https://img.shields.io/badge/Live_Control_Center-6f42c1?style=flat-square)](https://api-rate-limiter-266670750120.asia-south1.run.app/dashboard)
 
 | Feature | Details |
 |---|---|
-| **Problem Solved** | Protects APIs from DDoS and abuse - the same pattern used by Stripe, GitHub, and Google |
-| **Architecture** | Strategy Pattern - 2 pluggable algorithms (Fixed Window + Sliding Window) via env var |
-| **Distributed** | Redis as shared atomic counter - works correctly across **horizontally scaled** instances |
-| **Observability** | Prometheus metrics endpoint + structured Winston JSON logs |
-| **CI/CD** | GitHub Actions - lint to type-check to tests to Docker build with real Redis health check |
+| **Problem Solved** | Multi-tenant API Gateway rate limiter protecting services from DDoS & abuse (Stripe/Cloudflare architecture) |
+| **Architecture** | Strategy Pattern with 4 algorithms: Fixed Window, Sliding Window Log, Token Bucket, & Atomic Redis Lua Counter |
+| **Control Center** | Dark-mode visual UI with live throughput chart, algorithm hot-swapping, traffic simulator, & SSE telemetry |
+| **Resilience & Scale** | Atomic Redis execution to prevent TOCTOU race conditions + fail-open design for zero downtime |
+| **CI/CD** | GitHub Actions keyless deployment to GCP Cloud Run via Workload Identity Federation (WIF) |
 
-TypeScript | Node.js | Redis | Docker | GCP Compute Engine | Prometheus | GitHub Actions
+TypeScript | Node.js | Redis | Express | Docker | GCP Cloud Run | Prometheus | GitHub Actions
 
 ---
 
