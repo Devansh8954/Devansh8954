@@ -100,17 +100,20 @@ TypeScript | Node.js | Redis | Express | Docker | GCP Cloud Run | Prometheus | G
 
 ---
 
-### AI Mental Health Chatbot
-> **Cloud-hosted on Render | 99.9% uptime | Public REST API**
+### AI RAG Mental Health & Wellness Platform
+> **AI & RAG Infrastructure | Deployed on GCP Cloud Run | TypeScript | Google Gemini AI | Vector Engine | Docker**
 
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Devansh8954/Nodejs_gemini-main)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-28a745?style=flat-square)](https://nodejs-gemini-main.onrender.com/)
 
-- Conversational AI chatbot powered by **Google Gemini API** with real-time responses
-- Modular REST API backend built for clean scalability and easy integration
-- Cloud-hosted with **99.9% uptime** and a responsive frontend
+| Feature | Details |
+|---|---|
+| **RAG Vector Search** | Custom TF-IDF Cosine Similarity engine matching user queries against verified CBT & evidence-based wellness guidelines |
+| **Safety Interception** | Real-time guardrail middleware intercepting high-risk crisis keywords with instant emergency lifeline (988) responses |
+| **Session Memory** | Multi-turn conversation buffer maintaining patient interaction state across dynamic session streams |
+| **Multimodal Support** | Image analysis endpoint combining Gemini AI vision with environmental wellness evaluation |
+| **CI/CD & Cloud** | Multi-stage Docker container automated deployment to **GCP Cloud Run** via GitHub Actions keyless WIF pipeline |
 
-Node.js | Express | Gemini AI | HTML | CSS | Render
+TypeScript | Node.js | Express | Gemini AI | Vector RAG Engine | Docker | GCP Cloud Run | GitHub Actions | Jest
 
 ---
 
